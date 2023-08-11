@@ -16,7 +16,7 @@ Gesture2Text steps in as a modern, tech-savvy sign language translator, breaking
 
 - **Wide ASL Vocabulary Support:** With a vast range of translations for numbers (0-9) and alphabets (A-Z), Gesture2Text covers the basics and beyond.
 
-- **Unmatched Accuracy:** Our state-of-the-art machine learning models boast an accuracy rate of 85%, ensuring reliable translations for all your conversations.
+- **Easy to Understand and Implement:** This project boasts a user-friendly design and straightforward implementation, making it both simple to comprehend and effortless to deploy.
 
 ### Hardware Requirements 🛠️
 
